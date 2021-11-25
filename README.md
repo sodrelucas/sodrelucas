@@ -1,6 +1,7 @@
 ### Olá, eu sou Lucas 🤙
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/lucas-sodré-2a8423220/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-sodré-2a8423220
+)
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=sodrelucas&show_icons=true&theme=dracula)
 
